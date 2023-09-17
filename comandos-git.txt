@@ -14,3 +14,6 @@ genera historial de los ultimos commits , usuario fecha y hora
 7. git log --oneline
 genera historial resumido
 8.git branch mi-rama
+9. git checkout nombre de rama cambi de rama
+10. git -D nombre rama , para borrar una rama
+git merge nombre rama  fusionar cambios
