@@ -1,0 +1,16 @@
+Comandos basicos deGIT.
+
+1. git init
+Este comando inicializa o activa git en nuestros proyectos-
+2. git status
+situacion actual del proyecto
+3. git add .
+guardar archivos que detecte
+4. git ignore (otro archivo para ignorarlo)
+5. git commit -m "mensaje indicativo del cambio"
+con este comando confirmamos TODOS los cambios que hicimos hasta ese momento
+6 git log
+genera historial de los ultimos commits , usuario fecha y hora 
+7. git log --oneline
+genera historial resumido
+8.git branch mi-rama
