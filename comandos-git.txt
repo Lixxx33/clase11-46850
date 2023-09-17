@@ -8,12 +8,17 @@ situacion actual del proyecto
 guardar archivos que detecte
 4. git ignore (otro archivo para ignorarlo)
 5. git commit -m "mensaje indicativo del cambio"
-con este comando confirmamos TODOS los cambios que hicimos hasta ese momento
+con este comando confirmamos TODOS los cambios que hicimos hasgit ta ese momento
 6 git log
 genera historial de los ultimos commits , usuario fecha y hora 
 7. git log --oneline
 genera historial resumido
 8.git branch mi-rama
+<<<<<<< HEAD
 9. git checkout nombre de rama cambi de rama
 10. git -D nombre rama , para borrar una rama
 git merge nombre rama  fusionar cambios
+=======
+9. git checkout nombre de branch para moverse entre ramas
+10. git -D nombre de rama, para borrar
+>>>>>>> branch1
